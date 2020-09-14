@@ -30,6 +30,6 @@
 ## Example usage
 ```
 module "s3backend" {
-    source ="github.com/scottwinkler/terraform-aws-s3backend"
+    source ="github.com/bugbiteme/terraform-aws-s3backend"
 }
 ```
