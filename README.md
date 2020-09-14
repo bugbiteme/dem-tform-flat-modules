@@ -27,3 +27,9 @@
 |------|-------------|
 | config | n/a |
 
+## Example usage
+```
+module "s3backend" {
+    source ="github.com/scottwinkler/terraform-aws-s3backend"
+}
+```
